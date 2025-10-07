@@ -3,7 +3,7 @@ public class FindSubString {
         int count =0;
         String s = "raj"; 
         for (int i = 0; i <s.length(); i++) { 
-        for (int j = i+1; j <=s.length(); j++) {
+        for (int j = i+1; j <=s.length(); j++) { 
             System.out.println(s.substring(i,j)); 
             count++; 
         }
