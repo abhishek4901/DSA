@@ -2,7 +2,7 @@
  #define MAX 100
 int main (){
     int arr[MAX],size,i,j,temp;
-    printf("Enter the size of the array: ");
+    printf("Enter the size of the array: ");n
     scanf("%d",&size);
     printf("Enter the elements of the array : ");
     for(i=0;i<size;i++){  
