@@ -9,7 +9,7 @@ int main (){
      
         scanf("%d",&arr[i]);
         }
-    
+     
     for(i=0;i<size;i++){
         for(j=i+1;j<size;j++){//for(j=0;j<size;j++){ but that increases time complexity
             if(arr[i]<arr[j]){ 
