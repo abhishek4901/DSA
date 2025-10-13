@@ -15,6 +15,6 @@ public class Vowel{
         System.out.println(count);
     
 
-       
+        
     }  
 }
