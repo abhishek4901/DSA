@@ -4,7 +4,7 @@ public class Vowel{
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the string to  count the vowel ");
         int count =0;
-        String str = sc.nextLine();
+        String str = sc.nextLine(); //to take new int value 
          str = str.toLowerCase();//for change the string in lower case
         for(int i =0; i<str.length(); i++){
             char ch = str.charAt(i);//for single word (string ko ek ek word me todne liye )
