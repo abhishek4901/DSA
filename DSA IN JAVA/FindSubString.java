@@ -1,4 +1,4 @@
-public class FindSubString {
+ public class FindSubString {
     public static void main(String[] args) {
         int count =0;
         String s = "raj"; 
