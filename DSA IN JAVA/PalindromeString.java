@@ -5,7 +5,7 @@ public class PalindromeString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);  
         System.out.println("Enter the string to check palindrome: ");
-        String str = sc.nextLine();
+        String str = sc.nextLine(); 
         str = str.toLowerCase();
         
         int i = 0;
