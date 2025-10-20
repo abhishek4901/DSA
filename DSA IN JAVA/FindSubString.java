@@ -1,5 +1,5 @@
  public class FindSubString {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int count =0;
         String s = "raj"; 
         for (int i = 0; i <s.length(); i++) {  
