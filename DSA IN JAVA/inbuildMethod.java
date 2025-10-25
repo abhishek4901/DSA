@@ -3,7 +3,7 @@ public class inbuildMethod {
         String s = "raja";
         String r = "ram";
         String a = "hello";
-        System.out.println(s.concat(r));//rajaram 
+        System.out.println(s.concat(r));//rajaram  
         //or 
         s= s.concat(r);
         System.out.println(s);//rajaram
