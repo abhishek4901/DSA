@@ -1,7 +1,7 @@
 public class inbuildMethod {
     public static void main(String[] args) {
         String s = "raja";
-        String r = "ram";
+        String r = "ram"; 
         String a = "hello";
         System.out.println(s.concat(r));//rajaram  
         //or  
