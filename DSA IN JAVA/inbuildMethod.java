@@ -7,7 +7,7 @@ public class inbuildMethod {
         //or  
         s= s.concat(r);
         System.out.println(s);//rajaram
-        //+oprator 
+        //+oprator  
         s=s+a;
         System.out.println(s);//rajaramhello s me pahle se rajaram store h 
         //or
