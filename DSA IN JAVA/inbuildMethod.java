@@ -10,7 +10,7 @@ public class inbuildMethod {
         //+oprator  
         s=s+a;
         System.out.println(s);//rajaramhello s me pahle se rajaram store h 
-        //or
+        //or 
         s= s+"raghupati";
         System.out.println(s);//rajaramraghupati
 
