@@ -4,7 +4,7 @@ public class inbuildMethod {
         String r = "ram";
         String a = "hello";
         System.out.println(s.concat(r));//rajaram  
-        //or 
+        //or  
         s= s.concat(r);
         System.out.println(s);//rajaram
         //+oprator 
