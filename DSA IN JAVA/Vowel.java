@@ -6,7 +6,7 @@ public class Vowel{
         int count =0;
         String str = sc.nextLine(); //to take new int value 
          str = str.toLowerCase();//for change the string in lower case
-        for(int i =0; i<str.length(); i++){ 
+        for(int i =0; i<str.length(); i++){  
             char ch = str.charAt(i);//for single word (string ko ek ek word me todne liye )
             if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
                 count++;
